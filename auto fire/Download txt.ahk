@@ -1,0 +1,1 @@
+UrlDownloadToFile, http://www.autohotkey.com/download/CurrentVersion.txt, C:\AutoHotkey Latest Version.txt

@@ -1,0 +1,64 @@
+v 1.0
+-Kod yazýldý
+-Baþlangýç mesajý eklendi
+-Program artýk klan üyeleri için bedava
+
+v 1.1
+-Kod geliþtirildi artýk daha hýzlý
+-Baþlatma tuþu deðiþtirildi artýk F1
+-Klan sayfasý için Yönlendiriyorsunuz mesajý eklendi
+-Ýngilizce dil desteði eklendi
+-koddaki gereksiz ve çalýþmayan komutler kaldýrýldý
+
+v 1.2
+-Ýkon eklendi
+-Reklam eklendi
+-Tray ikonu deiþtirildi
+
+v 1.3
+-Program aktifleþirken yaþanan küçük bir bug düzeltildi
+
+v 1.4
+-reg dosyalarý eklendi
+-reklam sistemi eklendi
+-reklam eklendi
+-Manistist's Auto Fire programý artýk herkese bedava
+
+v 1.5
+-reklam sistemi güncellendi artýk reklamlar günde bir kere açýlacak
+-kod güncellendi artýk daha hýzlý 
+
+v 1.6
+-self update sistemi eklendi
+
+-ini indirme...
+
+*1veya2 yepastýýnda scriptin açýlacaðý birkod
+
+
+
+
+;Re Editted by Seyahdoo The Maniatist
+MsgBox, 4, , English(Yes) or Turkish(No)
+
+IfMsgBox, Yes
+{
+MsgBox, 4, , This Macro written by "Seyahdoo the Maniatist" and editted for usage for Professional Soliers Clan members`r`nFor start the macro simply press F1 button upper the keyboard`r`nNow you can use your m14 like a machine gun :]`r`nManiatist's Auto Fire Macro v1.1`r`nDo you want to go to [ProS]Clan website???
+IfMsgBox, Yes
+   {
+Msgbox You are redirecting...
+Run http://www.xfire.com/communities/prostr/
+    }
+MsgBox Have a good day and be a good guy:]
+}
+Else
+{
+MsgBox, 4, , Bu Makro "Seyahdoo the Maniatist" Tarafindan yazilip Professional soliders klani uyelerinin kullanimi icin editlenmistir`r`nMakroyu baslatmak icin F1 tusuna basmaniz yeterlidir`r`nArtik m14'unuzu taramali silah gibi kullanabilirsiniz`r`nManiatist's Auto Fire Macro v1.1`r`n[ProS]Klan sayfasina gitmek istermisiniz??? 
+IfMsgBox, Yes
+   {
+MsgBox Yonlendiriyiyorsunuz...
+Run http://www.xfire.com/communities/prostr/
+
+   }
+}
+MsgBox HAYIRLI GUNLER...HAYIRLI OYUNLAR...
